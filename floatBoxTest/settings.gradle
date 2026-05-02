@@ -1,0 +1,2 @@
+include ':app',':androlua'
+rootProject.name = "转储中转站悬浮窗测试"
